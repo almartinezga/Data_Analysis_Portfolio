@@ -42,3 +42,9 @@ I used her code as a foundation for my Data Analysis project. However, I have ma
 
 ## 1.8 References
 [1] The 2nd Largest Search Engine on the Internet. (2020, January 28). Global Reach. https://www.globalreach.com/global-reach-media/blog/2020/01/28/the-2nd-largest-search-engine-on-the-internet
+
+[2] Top 1000 canales de YouTube de Comida y bebida en México. HypeAuditor. https://hypeauditor.com/es/top-youtube-food-drinks-mexico/
+
+[3] YouTube Data API Overview. (2022, March 4). Google. https://developers.google.com/youtube/v3/getting-started 
+
+[4] Thu Vu data analytics. (2022, January 22). Youtube API for Python: How to Create a Unique Data Portfolio Project [video]. Youtube. https://www.youtube.com/watch?v=D56_Cx36oGY&t=558s&ab_channel=ThuVudataanalytics

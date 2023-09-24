@@ -10,7 +10,7 @@ The main question this project aims to answer is: What are the factors that lead
 
 ## 1.3 Methodology
 Armed with the hypothesis that a movie's budget holds the highest correlation with its revenue, I embarked on a journey to validate or deny this assumption. The steps followed were:
-1. Utilizing a dataset sourced from Kaggle[[1]](https://www.kaggle.com/datasets/danielgrijalvas/movies), I constructed the DataFrame to serve as the foundation of my analysis.
+1. Utilizing a dataset sourced from Kaggle [[1]](https://www.kaggle.com/datasets/danielgrijalvas/movies), I constructed the DataFrame to serve as the foundation of my analysis.
 2. Data cleaning and processing to ensure data quality.
 3. Exploratory Data Analysis and visual representation of the interplay between variables.
 4. Sharing findings in the presentation attached to the repository.
@@ -24,7 +24,7 @@ Also, the project serves as a stepping stone for further analysis. A pending reg
 The dataset I used for the project is publicly available in Kaggle [[1]](https://www.kaggle.com/datasets/danielgrijalvas/movies). Since the data was downloaded from Kaggle, it relies on the quality and accuracy of the source from which it was originally compiled. Additionally, it was last updated in 2020, which means it may not include movies released in the latest years (post-2020). This limitation could affect the analysis of recent trends in the film industry.
 
 ## 1.6 Acknowledgements
-I extend my gratitude to 'Alex the Analyst' for his invaluable guidance, which served as a cornerstone for this project. I drew inspiration from his video titled 'Data Analyst Portfolio Project | Correlation in Python | Project 4/4'[[2]](https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4&t=2763s&ab_channel=AlexTheAnalyst). I used his code as a foundation for my Data Analysis project. However, I have made considerable modifications and enhancements to tailor the analysis to my specific goals and requirements. While the initial code provided valuable insights, I have adapted it to suit the unique aspects of my project and make it my own.
+I extend my gratitude to 'Alex the Analyst' for his invaluable guidance, which served as a cornerstone for this project. I drew inspiration from his video titled 'Data Analyst Portfolio Project | Correlation in Python | Project 4/4' [[2]](https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4&t=2763s&ab_channel=AlexTheAnalyst). I used his code as a foundation for my Data Analysis project. However, I have made considerable modifications and enhancements to tailor the analysis to my specific goals and requirements. While the initial code provided valuable insights, I have adapted it to suit the unique aspects of my project and make it my own.
 
 Additionally, credit is duly attributed to the dataset's creator, Daniel Grijalva, which can be accessed on Kaggle [[1]](https://www.kaggle.com/datasets/danielgrijalvas/movies).
 
